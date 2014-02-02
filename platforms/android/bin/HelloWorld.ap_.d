@@ -25,8 +25,11 @@
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/spec \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/spec.html \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/css/index.css \
+/Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/css/todo.css \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/img/logo.png \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/js/index.js \
+/Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/js/jquery-1.11.0.min.js \
+/Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/js/todo.js \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/res/icon \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/res/screen \
 /Users/Adam/Documents/development/phonegap/hello/platforms/android/assets/www/res/icon/android \

@@ -1,0 +1,17 @@
+.todo-item{
+	padding-bottom:10px;
+	font-size:25px;
+	color:black;
+}
+.todo-item-done{
+	text-decoration: line-through;
+	color:grey;
+}
+#addItem{
+	font-size: 20px;
+}
+#todo-text{
+	width:80%;
+	height: auto;
+	font-size: 20px;
+}
